@@ -8,4 +8,7 @@ body{
   }
   .top1{
     background-color: rgba(224, 32, 138, 0.877);
+    color:rgb(98, 7, 184);
+    text-align:center;
+    padding:40px;
   }
